@@ -15,6 +15,7 @@ Admin Functionalities:
 Manage books: add, edit, and delete entries.
 Oversee orders and update statuses.
 Generate sales reports and track user activity.
+
 Additional Features:
 
 User reviews and ratings.
