@@ -9,6 +9,7 @@ Browse books by categories, authors, and price ranges.
 View detailed descriptions, summaries, and author information.
 Add books to a shopping cart or wishlist for future purchases.
 Secure user registration and login system.
+
 Admin Functionalities:
 
 Manage books: add, edit, and delete entries.
