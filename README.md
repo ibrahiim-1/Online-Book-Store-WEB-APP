@@ -20,10 +20,12 @@ Additional Features:
 
 User reviews and ratings.
 Notifications for order updates and promotions.
+
 Development Highlights:
 Frontend: Designed with responsive HTML and CSS for an intuitive user experience.
 Backend: PHP powers dynamic functionalities, integrating with a MySQL database for data management.
 Design Approach: Prioritized a clean and user-friendly interface, with robust backend integration for smooth operations.
+
 Development Process: The application was developed incrementally, with features tested after each phase to ensure functionality and minimize risks.
 Goals:
 To deliver a reliable and engaging platform for book lovers and administrators, focusing on functionality, scalability, and ease of use.
