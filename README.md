@@ -25,5 +25,3 @@ Design Approach: Prioritized a clean and user-friendly interface, with robust ba
 Development Process: The application was developed incrementally, with features tested after each phase to ensure functionality and minimize risks.
 Goals:
 To deliver a reliable and engaging platform for book lovers and administrators, focusing on functionality, scalability, and ease of use.
-
-This repository contains all the project files, including source code, database schemas, and documentation. Feel free to explore and contribute!
